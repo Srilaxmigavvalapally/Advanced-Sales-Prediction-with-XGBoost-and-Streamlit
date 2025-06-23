@@ -63,3 +63,9 @@ The model's feature importance analysis revealed that:
 *(Optional: Take a screenshot of your feature importance plot and add it to an `images` folder to display it here.)*
 
 >>>>>>> 855eb99834db167068737182eb746a1aa1aae412
+## 🎥 Project Demo
+
+Watch a full execution of the Streamlit app in action:
+
+[Click here to watch the project execution video](media/project_execution.mp4)
+
