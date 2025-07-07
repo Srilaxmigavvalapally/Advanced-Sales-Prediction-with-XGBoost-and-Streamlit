@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Advanced Sales Prediction Project
 
 This project uses an optimized XGBoost model to predict sales revenue based on advertising spend on TV, Radio, and Newspaper. It includes a full data analysis pipeline and an interactive web application built with Streamlit.
